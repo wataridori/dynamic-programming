@@ -20,4 +20,3 @@ price[] = [3, 5, 8, 9, 10, 17, 18, 20]
 24
 // By cutting in eight pieces of length 1
 ```
-
