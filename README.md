@@ -8,9 +8,10 @@ This repository contains some famous Problems that can be solved by Dynamic Prog
 
 You can send a new Pull Request about:
 - Contributing a new Problem that can be solved by Dynamic Programming
+    - Create a new Folder for it. The folder name must be the name of the Problem
+    - Inside the folder, create a file named `problem.md`, and write the content of the Problem here
 - Contributing a Solution for a Problem which is written by Dynamic Programming
+    - Your file must be put inside the correct folder that the Solution belongs to
+    - Your file must be named as `solution`. For example: `solution.py`, `solution.cpp`, `solution.php` ...
 - Re-implement an existing Solution in anothor Programming Language
-
-
-
-
+- Improve the Solution, or add more Comments into it
